@@ -120,7 +120,7 @@ export const experiences = [
     company: "Icanio Technologies",
     period: "07/2026 – Present",
     type: "Full-Time / Industry Experience",
-    location: "India",
+    location: "USA , remote",
     description: "Contributing to the design, architecture, and development of enterprise-level full-stack web applications and cloud integrations.",
     achievements: [
       "Received structured training and hands-on exposure to Next.js, Redux, jsPDF, WebSocket, MJML, Axios, Claude Code, and Recharts for building modern, data-driven interfaces.",
